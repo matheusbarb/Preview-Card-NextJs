@@ -48,8 +48,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/matheusbarb/Preview-Card-NextJs)
-- Live Site URL: [Add live site URL here](https://preview-card-next-js.vercel.app)
+- Solution URL: (https://github.com/matheusbarb/Preview-Card-NextJs)
+- Live Site URL: (https://preview-card-next-js.vercel.app)
 
 ## My process
 
