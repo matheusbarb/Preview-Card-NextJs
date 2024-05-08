@@ -16,21 +16,63 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Blog preview card solution
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Learn More
+## Table of contents
 
-To learn more about Next.js, take a look at the following resources:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Overview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+!["/images/screenshot.png"]
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+
+### What I learned
+
+Next.js: Next.js is a React web development framework that enables the creation of web applications with server-side rendering and simple routing. It offers several powerful features such as static and dynamic page generation, pre-rendering, image optimization, and much more.
+
+Tailwind CSS: Tailwind CSS is a utility-first CSS design framework that simplifies the creation of custom and responsive user interfaces. Instead of writing traditional CSS styles, Tailwind allows for building interfaces using pre-defined classes representing specific styles like colors, spacing, typography, and hover effects.
+
+Fontsource: Fontsource is a library that facilitates the embedding of open-source fonts in web projects. In this project, we utilized the Figtree font provided by Fontsource to style text and provide a unique and appealing aesthetic for the user interface.
+
+In addition to these core technologies, we also leveraged other resources, such as:
+
+Next/Image: The Next.js Image component was used to optimize and render images efficiently, ensuring fast loading times and a visually pleasing experience for the user.
+
+
+## Author
+
+- Website - [Matheus Henrique Correa Barbosa](https://github.com/matheusbarb)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/matheusbarb)
+
