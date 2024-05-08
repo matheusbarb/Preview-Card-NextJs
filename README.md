@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/matheusbarb/Preview-Card-NextJs)
+- Solution URL: (https://www.frontendmentor.io/solutions/previewcardnextjs-cU4BZb5__W)
 - Live Site URL: (https://preview-card-next-js.vercel.app)
 
 ## My process
